@@ -1,4 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-//dsfsdfsdfsdfsdfsdfsd///
+
+
+void public MyMethod()
+{
+    // This is a sample method
+    Console.WriteLine("This is my method.");
+}   
